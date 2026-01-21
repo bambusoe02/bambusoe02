@@ -31,7 +31,7 @@ User: "Create task management app with teams"
 AstraForge: Generates full-stack app across all platforms in 4 minutes
 ```
 
-### 🔍 [CodeSentinel](https://codesentinel-six.vercel.app) - AI GitHub Repository Analyzer
+### 🔍 [CodeSentinel](https://github.com/bambusoe02/codesentinel) - AI GitHub Repository Analyzer
 **Professional AI-powered codebase analysis for engineering managers**
 
 - ✅ **Comprehensive AI analysis**: Security vulnerabilities, performance bottlenecks, technical debt
