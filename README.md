@@ -87,7 +87,7 @@ Passionate about making enterprise AI **private, accurate, and accessible**.
 - ✅ GDPR-compliant (zero data leaves infrastructure)
 
 **Tech Stack:**  
-`Qwen 14B` `LangChain` `ChromaDB` `FastAPI` `Streamlit` `Docker` `Ollama`
+`Qwen3` `Codestral` `LangChain` `ChromaDB` `FastAPI` `Streamlit` `Docker` `Ollama`
 
 **Status:** 🟡 Local Deployment Ready
 
@@ -144,8 +144,6 @@ Passionate about making enterprise AI **private, accurate, and accessible**.
 ### 📊 GitHub Activity
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bambusoe02&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bambusoe02&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
