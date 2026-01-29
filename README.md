@@ -228,6 +228,4 @@ I'm interested in roles involving:
 
 <sub>Last updated: January 28, 2026 • Built with ❤️ and lots of ☕</sub>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=bambusoe02&color=blue&style=flat-square)
-
 </div>
