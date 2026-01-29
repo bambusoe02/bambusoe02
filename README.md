@@ -214,7 +214,7 @@ I'm interested in roles involving:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/marcin-baran-967237173)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bambusoe@gmail.com)
 
-**📍 Warsaw, Poland / Eeykjavik, Iceland ** • **🕐 UTC+1** • **💬 English, Polish**
+**📍 Warsaw, Poland / Reykjavik, Iceland ** • **🕐 UTC+1** • **💬 English, Polish**
 
 </div>
 
