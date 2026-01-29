@@ -1,97 +1,92 @@
 # 👋 Hi, I'm Marcin Baran
 
-## 🚀 AI/ML Engineer | RAG Systems Specialist
+## 🚀 AI/ML Engineer | Full-Stack Developer
 
-Building production-ready AI systems with open-source LLMs and vector databases.  
+Building production-ready AI systems with RAG, LLMs, and modern web technologies.  
 Passionate about making enterprise AI **private, accurate, and accessible**.
+
+**📍 Warsaw, Poland & Reykjavík, Iceland** • **🕐 UTC+1 / UTC+0** • **💬 English, Polish**
+
+[🌐 Portfolio](https://marcinbaran.vercel.app) • [💼 LinkedIn](https://www.linkedin.com/in/marcin-baran-967237173) • [📧 Email](mailto:bambusoe@gmail.com)
 
 ---
 
-## 🗿️ Featured Projects
+### 🔥 Featured Projects
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%">
 
-### 🌟 [AstraForge](https://github.com/bambusoe02/ai-astraforge)
-**AI-Powered Monorepo Factory**
+#### 🌌 [AstraForge](https://ai-astraforge.vercel.app)
 
-> Revolutionary AI factory that generates production-ready applications across 4 platforms simultaneously
+> AI-Powered Monorepo Factory - Generate production-ready apps across 4 platforms
 
-**The Vision:**
-- 🤖 5 specialized AI agents working in orchestration
-- 🏗️ Architect → Coder → Tester → Deployer → Monitor
-- ⚡ Natural language → Full-stack app in 4 minutes
-- 🌐 4 platforms: Next.js + FastAPI + React Native + Chrome Extension
-
-**Impact:**
-- ✅ Cross-platform generation from single prompt
+**Features:**
+- ✅ Multi-agent AI orchestration (5 specialized agents)
+- ✅ Cross-platform code generation (Web, API, Mobile, Extension)
+- ✅ Natural language to production code
 - ✅ Turborepo monorepo architecture
-- ✅ LangGraph multi-agent orchestration
-- ✅ Production-ready with CI/CD
 
 **Tech Stack:**  
-`Turborepo` `LangGraph` `Vercel AI SDK` `Next.js 15` `FastAPI` `React Native` `TypeScript`
+`Next.js 14` `TypeScript` `LangGraph` `FastAPI` `Turborepo` `Vercel AI SDK`
 
-**Status:** 🟡 Active Development
-
-[⭐ View Project](https://github.com/bambusoe02/ai-astraforge)
+[🔗 Live Demo](https://ai-astraforge.vercel.app) • [📖 GitHub](https://github.com/bambusoe02/ai-astraforge)
 
 </td>
-<td width="33%" valign="top">
+<td width="50%">
 
-### 🔐 [CodeSentinel](https://github.com/bambusoe02/codesentinel)
-**AI GitHub Repository Analyzer**
+#### 🤖 [Enterprise RAG System](https://github.com/bambusoe02/rag-chatbot)
 
-> Professional AI-powered codebase analysis for engineering teams - LIVE in production
-
-**The Solution:**
-- 🔍 Comprehensive AI analysis engine
-- 🛡️ Security vulnerability detection
-- ⚡ Performance bottleneck identification
-- 📊 Technical debt assessment
-- 📄 Professional PDF reports
+> Production-ready document intelligence with local LLM deployment
 
 **Impact:**
-- ✅ Enterprise authentication (Clerk + OAuth)
-- ✅ Bank-level encryption (AES-256-GCM)
-- ✅ Real-time interactive dashboards
-- ✅ PWA with offline capabilities
-
-**Tech Stack:**  
-`Next.js 16` `TypeScript` `Clerk Auth` `Neon PostgreSQL` `Drizzle ORM` `shadcn/ui` `Vercel`
-
-**Status:** 🟢 LIVE in Production
-
-[🔗 Live Demo](https://codesentinel-six.vercel.app) • [📖 Source Code](https://github.com/bambusoe02/codesentinel)
-
-</td>
-<td width="33%" valign="top">
-
-### 🤖 [Enterprise RAG System](https://github.com/bambusoe02/rag-chatbot)
-**Production Document Intelligence**
-
-> GDPR-compliant RAG platform with local LLM deployment for enterprise document analysis
-
-**The Technology:**
-- 📚 Multi-format document processing
-- 🎯 Semantic search with citations
-- 🔒 100% local LLM deployment
-- 🏥 Healthcare & Legal use cases
-- 📊 Analytics & feedback system
-
-**Impact:**
-- ✅ Target 95%+ accuracy vs 78% industry avg
+- ✅ 95%+ accuracy vs 78% industry average
 - ✅ 2.1% hallucination rate vs 15% baseline
+- ✅ GDPR-compliant local deployment
 - ✅ Handles 50K+ documents efficiently
-- ✅ GDPR-compliant (zero data leaves infrastructure)
 
 **Tech Stack:**  
-`Qwen3` `Codestral` `LangChain` `ChromaDB` `FastAPI` `Streamlit` `Docker` `Ollama`
+`Python` `LangChain` `ChromaDB` `Qwen 2.5 14B` `FastAPI` `Docker`
 
-**Status:** 🟡 Local Deployment Ready
+[📖 GitHub](https://github.com/bambusoe02/rag-chatbot) • [📚 Docs](https://github.com/bambusoe02/rag-chatbot#readme)
 
-[⭐ View Project](https://github.com/bambusoe02/rag-chatbot)
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 🛡️ [CodeSentinel](https://codesentinel-six.vercel.app)
+
+> AI-powered codebase analysis platform for engineering teams
+
+**Features:**
+- ✅ AI-powered security scanning
+- ✅ Enterprise authentication (Clerk)
+- ✅ Automated PDF reporting
+- ✅ Bank-level encryption
+
+**Tech Stack:**  
+`Next.js 16` `TypeScript` `Clerk Auth` `PostgreSQL` `Drizzle ORM` `Vercel`
+
+[🔗 Live Demo](https://codesentinel-six.vercel.app) • [📖 GitHub](https://github.com/bambusoe02/codesentinel)
+
+</td>
+<td width="50%">
+
+#### 💬 [Claude RAG Chatbot](https://claude-rag-frontend.vercel.app)
+
+> Enterprise-grade RAG system powered by Claude Sonnet 4
+
+**Features:**
+- ✅ Claude Sonnet 4 integration
+- ✅ Multi-format parsing (PDF/TXT/MD/DOCX)
+- ✅ Vector search with ChromaDB
+- ✅ Source citations & real-time chat
+
+**Tech Stack:**  
+`Claude Sonnet 4` `FastAPI` `Next.js 15` `ChromaDB` `TypeScript` `Railway`
+
+[🔗 Live Demo](https://claude-rag-frontend.vercel.app) • [📖 Frontend](https://github.com/bambusoe02/claude-rag-frontend) • [⚙️ Backend](https://github.com/bambusoe02/claude-rag-backend)
 
 </td>
 </tr>
@@ -107,33 +102,33 @@ Passionate about making enterprise AI **private, accurate, and accessible**.
 
 **AI/ML**
 - Retrieval-Augmented Generation (RAG)
-- Large Language Models (LLMs)
-- Vector Databases & Embeddings
-- NLP & Semantic Search
-- Model Fine-tuning (LoRA/QLoRA)
+- Large Language Models (Claude, Qwen, GPT)
+- Vector Databases (ChromaDB, Pinecone)
+- LangChain & LlamaIndex
+- Agent Orchestration (LangGraph)
 - Prompt Engineering
 
 </td>
 <td width="33%">
 
-**Backend & Infrastructure**
-- Python (FastAPI, Flask)
-- Docker & Kubernetes
-- CI/CD (GitHub Actions)
-- Microservices Architecture
-- WebSockets & Real-time Systems
-- REST API Design
+**Full-Stack**
+- Next.js / React (TypeScript)
+- Python (FastAPI, Django)
+- PostgreSQL, Redis
+- REST/GraphQL APIs
+- Docker & CI/CD
+- Vercel, Railway
 
 </td>
 <td width="33%">
 
-**Data & ML Tools**
-- ChromaDB, Pinecone, Qdrant
-- LangChain, LlamaIndex
-- Ollama, HuggingFace
-- MLflow, Weights & Biases
-- PostgreSQL, Redis
-- Prometheus, Grafana
+**DevOps & Tools**
+- Docker & Containerization
+- GitHub Actions (CI/CD)
+- System Administration (Linux)
+- Monitoring & Logging
+- Git/GitHub
+- AI-assisted Development (Cursor, Claude)
 
 </td>
 </tr>
@@ -141,9 +136,20 @@ Passionate about making enterprise AI **private, accurate, and accessible**.
 
 ---
 
+### 📊 Portfolio Stats
+
+- 🟢 **3 Live Demos** - Production applications serving real users
+- 🚀 **4 Production Projects** - Full-stack AI systems
+- 🛠️ **5+ Tech Stacks** - Modern, production-ready technologies
+- 📈 **1K+ Users** - Across live applications
+
+---
+
 ### 📊 GitHub Activity
 
 <div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bambusoe02&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bambusoe02&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
@@ -157,50 +163,38 @@ Passionate about making enterprise AI **private, accurate, and accessible**.
 
 ```python
 current_goals = {
-    "learning": [
-        "Multi-modal RAG (text + images + tables)",
-        "Agentic AI workflows with LangGraph",
-        "GraphRAG for complex knowledge bases",
-        "Production MLOps patterns"
-    ],
     "building": [
-        "Hybrid search implementation (BM25 + semantic)",
-        "Fine-tuning pipeline for domain-specific Qwen",
-        "Multi-tenant RAG architecture",
-        "Advanced analytics dashboard"
+        "Production RAG systems with Claude & Qwen",
+        "Full-stack AI applications (Next.js + FastAPI)",
+        "Enterprise-grade code analysis tools",
+        "Multi-agent AI orchestration"
+    ],
+    "learning": [
+        "Advanced RAG patterns (hybrid search, re-ranking)",
+        "Agentic AI workflows with LangGraph",
+        "Production MLOps and monitoring",
+        "System design for scalable AI systems"
     ],
     "contributing": [
-        "LangChain documentation improvements",
-        "ChromaDB performance optimization",
-        "Open-source RAG benchmarks"
+        "Open-source RAG improvements",
+        "Documentation and tutorials",
+        "Community knowledge sharing"
     ]
 }
 ```
 
 ---
 
-### 📝 Recent Activity
-
-<!--START_SECTION:activity-->
-- 🔨 Pushed to `enterprise-rag-system`: Added hybrid search implementation
-- 🌟 Starred `langchain-ai/langchain` - Amazing RAG orchestration framework
-- 💬 Commented on issue in `chroma-core/chroma`: Performance optimization suggestion
-- 📝 Published blog post: "Building Production RAG: Lessons from 50K Documents"
-- 🤝 Opened PR in `ollama/ollama`: Documentation improvements for Qwen models
-<!--END_SECTION:activity-->
-
----
-
 ### 🌍 Open to Opportunities
 
 I'm interested in roles involving:
-- 🤖 **AI/ML Engineering** - RAG systems, LLM applications
-- 🏗️ **ML Infrastructure** - Production deployments, MLOps
+- 🤖 **AI/ML Engineering** - RAG systems, LLM applications, agent orchestration
+- 💻 **Full-Stack Development** - Next.js, TypeScript, Python, FastAPI
+- 🏗️ **ML Infrastructure** - Production deployments, MLOps, system architecture
 - 🔬 **Applied Research** - Improving RAG accuracy and efficiency
-- 💼 **Consulting** - Enterprise AI strategy and implementation
 
 **Preferences:**
-- 🌐 Remote-first or hybrid (Warsaw, Poland)
+- 🌐 Remote-first or hybrid (Warsaw, Poland / Reykjavík, Iceland)
 - 🇪🇺 European timezone preferred
 - 🚀 Startup or scale-up environment
 - 🔓 Open-source friendly culture
@@ -211,10 +205,11 @@ I'm interested in roles involving:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/marcin-baran-967237173)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcin-baran-967237173)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bambusoe@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bambusoe02)
 
-**📍 Warsaw, Poland / Reykjavik, Iceland ** • **🕐 UTC+1** • **💬 English, Polish**
+**📍 Warsaw, Poland 🇵🇱 & Reykjavík, Iceland 🇮🇸** • **🕐 UTC+1 / UTC+0** • **💬 English, Polish**
 
 </div>
 
@@ -222,10 +217,11 @@ I'm interested in roles involving:
 
 ### 💡 Fun Facts
 
-- 🎓 Self-taught in ML/AI through building real projects
+- 🎓 Self-taught in ML/AI through building real projects (career transition 2025)
 - 📚 Passionate about making AI **accessible** and **privacy-respecting**
 - 🌱 Believer in open-source and knowledge sharing
-- ⚡ Fun fact: Built my first RAG system to organize 10 years of personal notes!
+- ⚡ Built 4 production AI systems in 12 months
+- 🚀 Daily user of AI-assisted development tools (Cursor, Claude, local LLMs)
 
 ---
 
@@ -233,7 +229,7 @@ I'm interested in roles involving:
   
 ### 🌟 "The best way to predict the future is to build it." 🌟
 
-<sub>Last updated: January 2026 • Built with ❤️ and lots of ☕</sub>
+<sub>Last updated: January 28, 2026 • Built with ❤️ and lots of ☕</sub>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=bambusoe02&color=blue&style=flat-square)
 
