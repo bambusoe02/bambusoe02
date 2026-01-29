@@ -7,7 +7,7 @@ Passionate about making enterprise AI **private, accurate, and accessible**.
 
 **📍 Warsaw, Poland & Reykjavík, Iceland** • **🕐 UTC+1 / UTC+0** • **💬 English, Polish**
 
-[🌐 Portfolio](https://marcinbaran.vercel.app) • [💼 LinkedIn](https://www.linkedin.com/in/marcin-baran-967237173) • [📧 Email](mailto:bambusoe@gmail.com)
+[💼 LinkedIn](https://www.linkedin.com/in/marcin-baran-967237173) • [📧 Email](mailto:bambusoe@gmail.com)
 
 ---
 
