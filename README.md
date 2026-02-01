@@ -136,7 +136,7 @@ Passionate about making enterprise AI **private, accurate, and accessible**.
 
 - 🟢 **3 Live Demos** - Production applications serving real users
 - 🚀 **4 Production Projects** - Full-stack AI systems
-- 🛠️ **10+ Tech Stack** - Modern, production-ready technologies
+- 🛠️ **5+ Tech Stack** - Modern, production-ready technologies
 - 📈 **1K+ Users** - Across live applications
 
 ---
