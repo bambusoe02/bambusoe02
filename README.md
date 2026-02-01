@@ -39,7 +39,7 @@ Passionate about making enterprise AI **private, accurate, and accessible**.
 - ✅ 95%+ accuracy vs 78% industry average
 - ✅ 2.1% hallucination rate vs 15% baseline
 - ✅ GDPR-compliant local deployment
-- ✅ Handles 50K+ documents efficiently
+- ✅ Handles 10K+ documents efficiently
 
 **Tech Stack:**  
 `Python` `LangChain` `ChromaDB` `Qwen 2.5 14B` `FastAPI` `Docker`
